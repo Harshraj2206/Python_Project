@@ -1,0 +1,9 @@
+# Contains a private API key — never share or commit
+mcp_config.json
+
+# Recreated by `python train.py`
+model/
+
+.venv/
+__pycache__/
+.pytest_cache/
